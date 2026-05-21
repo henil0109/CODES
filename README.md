@@ -9,9 +9,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0136-single-number](https://github.com/henil0109/CODES/tree/master/0136-single-number) |
 | [1920-build-array-from-permutation](https://github.com/henil0109/CODES/tree/master/1920-build-array-from-permutation) |
 ## Simulation
 |  |
 | ------- |
 | [1920-build-array-from-permutation](https://github.com/henil0109/CODES/tree/master/1920-build-array-from-permutation) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/henil0109/CODES/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
